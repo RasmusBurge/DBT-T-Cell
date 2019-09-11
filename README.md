@@ -15,8 +15,7 @@ Project goals
 
 2)        Enumerate databases and other resources to integrate
 
-3)    a)        Implement linking system
-      b)        Implement basic visualization of provided datasets
+3)        a) Implement linking system   b) Implement basic visualization of provided datasets
 
 4)        Evaluate system on users
 
@@ -25,5 +24,3 @@ Project goals
  
 
 Client/Supervisors: MIMS (Molecular Infection Medicine Sweden), HenLab (www.henlab.org)
-
-Johan Henriksson (johan.henriksson@umu.se)
