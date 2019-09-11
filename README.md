@@ -15,9 +15,9 @@ Project goals
 
 2)        Enumerate databases and other resources to integrate
 
-3a)        Implement linking system
+3)a)        Implement linking system
 
-3b)        Implement basic visualization of provided datasets
+3)b)        Implement basic visualization of provided datasets
 
 4)        Evaluate system on users
 
