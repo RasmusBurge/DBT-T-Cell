@@ -5,7 +5,7 @@ colors = {
 }
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1(
-        children='Hello Dash',
+        children=('Hello Dash'),
         style={
             'textAlign': 'center',
             'color': colors['text']
