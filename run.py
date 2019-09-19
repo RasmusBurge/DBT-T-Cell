@@ -11,7 +11,7 @@ app = dash.Dash(name = __name__, server = server)
 app.config.supress_callback_exceptions = True
 
 app.layout = html.Div(children=[
-    html.H1(children='Hello projekt 6!!'),
+    html.H1(children='Hello projekt 6!! LÖST'),
     html.Div(children='''
         Dash: A web application framework for Python.
     '''),
