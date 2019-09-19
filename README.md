@@ -1,7 +1,4 @@
 # Deploying Plotly-Dash To Heroku
-win 10 64-bit <br>
-python 3.6
-
 Project background
 
 A challenge in high-throughput data generation is interpreting the enormous amounts of data. Various methods end up with a list of genes, each of which complex data is available. While for each project we are able to come up with visualization of these genes, the link to existing information is poor.
