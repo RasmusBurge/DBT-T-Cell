@@ -16,7 +16,7 @@ app.layout = html.Div(children=[
         Dash: A web application framework for Python.
     '''),
     dcc.Graph(
-        id='example-graph',    
+        id='example-graph',
         figure={
             'data': [
                 {'x': [1, 2, 3], 'y': [4, 1, 2], 'type': 'line', 'name': 'SF'},
@@ -30,6 +30,10 @@ app.layout = html.Div(children=[
     dcc.Input(id='my-id', value='initial value', type="text"),
     html.Div(id='my-div')
 ])
+
+human = pd.read_csv('.csv')
+df=human
+
 
 @app.callback(
     Output(component_id='my-div', component_property='children'),
