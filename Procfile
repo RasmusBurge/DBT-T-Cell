@@ -1,1 +1,1 @@
-web gunicorn run:server
+web: gunicorn test1-234:server --preload
