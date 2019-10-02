@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 
 app = dash.Dash()
 server = app.server
-df = pd.read_csv('https://github.com/yankarabelo/hello-world/raw/master/rawrdata.csv', sep=";")
+df = pd.read_csv('https://raw.githubusercontent.com/RasmusBurge/DBT-T-Cell/master/rawdata.csv', sep=";")
 
 
 app.layout = html.Div(children=[
